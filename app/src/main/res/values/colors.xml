@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#0A0E1A</color>
+    <color name="surface">#111827</color>
+    <color name="primary">#3B82F6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#E2E8F0</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="status_open">#22C55E</color>
+    <color name="status_closed">#EAB308</color>
+    <color name="status_drowsy">#EF4444</color>
+    <color name="border">#1E2D45</color>
+    <color name="surface2">#1A2235</color>
+</resources>

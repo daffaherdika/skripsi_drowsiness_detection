@@ -1,0 +1,44 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio and Gradle cache
+.gradle/
+.idea/
+.kotlin/
+
+# Build output
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local machine configuration
+local.properties
+
+# Generated AAR directories and archives
+.gradle-aar-camera-view/
+.gradle-aar-camera-view.zip
+.opencv-aar/
+.opencv-aar.zip
+
+# Generated and temporary files
+*.iml
+*.log
+*.apk
+*.aab
+*.hprof
+.DS_Store

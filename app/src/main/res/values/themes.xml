@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.DrowsinessApp"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#3B82F6</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:colorBackground">#0A0E1A</item>
+        <item name="colorSurface">#111827</item>
+        <item name="colorOnSurface">#E2E8F0</item>
+        <item name="android:statusBarColor">#0A0E1A</item>
+    </style>
+</resources>
