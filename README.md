@@ -1,4 +1,4 @@
-# skripsi_drowsiness_detection# Drowsiness Detection Android
+# Drowsiness Detection Android
 
 Aplikasi Android untuk mendeteksi indikasi kantuk secara real-time berdasarkan fitur geometris wajah.
 
